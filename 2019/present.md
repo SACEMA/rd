@@ -1,4 +1,6 @@
 ---
 layout: redirect
-redirect: https://forms.gle/JLGf9egmhrfGJaSBA
+redirect: www.sacema.org
 ---
+
+https://forms.gle/JLGf9egmhrfGJaSBA
