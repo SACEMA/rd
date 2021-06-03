@@ -1,26 +1,8 @@
 url: http://rd.sacema.org
 title: SACEMA Research Days
-year: 2017
+year: 2021
 markdown: kramdown
 highlighter: rouge
-collections:
-  talks:
-    output: true
-    permalink: /talks/:name/
-  team:
-    output: true
-    permalink: /team/:name/
-defaults:
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-  - scope:
-      path: ""
-      type: team
-    values:
-      layout: profile
 exclude:
   - redirect.html
   - README.md
