@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect: https://forms.gle/hNjaupPU9UgCfwDy5
+redirect: https://forms.gle/QS78ChiLXpCj2GhQ8
 ---
