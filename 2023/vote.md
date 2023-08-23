@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect: https://forms.gle/CR94g3vPnauq4n8z6
+redirect: https://www.menti.com/alx6b75vxz78
 ---
